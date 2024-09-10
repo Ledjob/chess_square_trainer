@@ -2,7 +2,7 @@
 
 Chess Square Trainer is a Pygame-based application designed to help chess players improve their board awareness and square recognition skills. The game challenges players to quickly identify and click on specified chess squares within a time limit.
 
-#Features
+# Features
 
 Interactive chessboard interface
 Customizable time limit per square
